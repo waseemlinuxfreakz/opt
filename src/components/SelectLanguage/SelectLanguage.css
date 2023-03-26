@@ -1,0 +1,36 @@
+.text-20.title {
+  font-size: 20px;
+}
+
+.google-translate {
+  margin-bottom: 40px;
+}
+
+.select-languages {
+  margin-top: 40px;
+}
+
+.select-languages li {
+  list-style: none;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 20px;
+}
+
+.select-languages a {
+  display: flex;
+  align-items: center;
+  color: #000000;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.select-languages a span {
+  margin: 0 0 0 15px;
+}
+
+.select-languages li:last-child {
+  margin: 0;
+  padding: 0;
+  border: none;
+}

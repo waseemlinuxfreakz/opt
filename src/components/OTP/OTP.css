@@ -1,0 +1,48 @@
+p.text {
+  margin: 20px 0 30px;
+}
+
+p.text strong {
+  color: #000;
+}
+
+.single-link a {
+  font-size: 14px;
+  color: #295573;
+  line-height: 1.2;
+}
+
+.single-link {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.otp-form {
+  margin: 40px 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.otp-form input {
+  max-width: 50px;
+  aspect-ratio: 1;
+  padding: 5px;
+  font-size: 30px;
+  text-align: center;
+  border: 1px solid #296189;
+  outline: none;
+  background: #f3faff;
+}
+
+button.resend-otp {
+  border: none;
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+  font-size: 14px;
+  color: #808080;
+}
+
+button.resend-otp:hover {
+  color: #296189;
+}

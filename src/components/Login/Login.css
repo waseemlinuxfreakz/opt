@@ -1,0 +1,33 @@
+.single-input {
+  margin: 20px 0;
+}
+
+.single-input input {
+  border: none;
+  outline: none;
+  text-align: center;
+  border-bottom: 2px solid #ddd;
+  padding: 2px 0;
+  font-size: 20px;
+  box-sizing: border-box;
+  max-width: 220px;
+  margin: 50px auto 30px;
+  display: block;
+  background: transparent;
+}
+
+.login-content button {
+  background: #2a5673;
+  line-height: 24px;
+  border: 0;
+  outline: none;
+  border-radius: 7px;
+  color: #fff;
+  width: 110px;
+  margin: auto;
+  display: block;
+  margin-top: 40px;
+  padding: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
